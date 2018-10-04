@@ -57,8 +57,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Learning Azure Cosmos DB [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/learning-azure-cosmos-db#utm_source=github&utm_medium=repository&utm_campaign=9781788476171) [[Amazon]](https://www.amazon.com/dp/1788476174)
 
 ## Get to Know the Authors
-**Gastón C. Hillar**
-Gastón C. Hillar is Italian and has been working with computers since he was 8 years old.
+**Gastón C. Hillar** is Italian and has been working with computers since he was 8 years old.
 Gaston has a bachelor's degree in computer science (graduated with honors) and an MBA.
 He is an independent consultant, a freelance author, and a speaker.
 He was a senior contributing editor at Dr. Dobb's Journal and has written more than a
@@ -66,8 +65,7 @@ hundred articles on software development topics. He has received the prestigious
 Black Belt Software Developer award eight times.
 He lives with his wife, Vanesa, and his two sons, Kevin and Brandon.
 
-**Daron Yöndem**
-Daron Yöndem has been a Microsoft Regional Director and a Microsoft MVP for 11 years.
+**Daron Yöndem** has been a Microsoft Regional Director and a Microsoft MVP for 11 years.
 He is a regular speaker at international conferences, recently focusing on microservices,
 serverless, DevOps, and IoT. Daron currently works as a CTO at XOMNI Inc, a cloud
 company that builds PaaS offerings for retailers, such as XOGO, who are building decision
