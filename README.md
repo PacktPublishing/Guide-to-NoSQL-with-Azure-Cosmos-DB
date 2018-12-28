@@ -65,11 +65,10 @@ hundred articles on software development topics. He has received the prestigious
 Black Belt Software Developer award eight times.
 He lives with his wife, Vanesa, and his two sons, Kevin and Brandon.
 
-**Daron Yöndem** has been a Microsoft Regional Director and a Microsoft MVP for 11 years.
+**[Daron Yöndem](http://daron.me/)** has been a Microsoft Regional Director and a Microsoft MVP for 11 years.
 He is a regular speaker at international conferences, recently focusing on microservices,
-serverless, DevOps, and IoT. Daron currently works as a CTO at XOMNI Inc, a cloud
-company that builds PaaS offerings for retailers, such as XOGO, who are building decision
-signage platform. Feel free to reach out to him on Twitter @daronyondem.
+serverless, DevOps, and IoT. Daron currently works as a CTO at XOGO Inc, a SaaS provider building a decision
+signage platform. Feel free to reach out to him on Twitter [@daronyondem](https://twitter.com/daronyondem).
 
 
 ## Other books by the authors
