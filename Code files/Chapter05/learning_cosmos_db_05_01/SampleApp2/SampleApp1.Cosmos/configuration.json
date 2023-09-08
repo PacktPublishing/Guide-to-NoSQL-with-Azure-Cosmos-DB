@@ -1,0 +1,13 @@
+﻿// Development configuration values
+{
+  "CosmosDB": {
+    // Replace with the endpoint URL for your Azure Cosmos DB account
+    "endpointUrl": "https://example001.documents.azure.com:443/",
+    // Replace with the read-write primary key for your Azure Cosmos DB account
+    "authorizationKey": "Yf36lYUZvcv5WJjbcse4T0WqpgcbXIHkf74XKAhLNATJA7Dh6afsVZg7mMhKoKq42hyaXoOixQLTQj8WLCdETg==",
+    // Replace with your desired database id
+    "databaseId": "Competition",
+    // Replace with your desired collection id
+    "collectionId": "Competitions1"
+  }
+}
